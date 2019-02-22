@@ -37,3 +37,17 @@ C:\Talent-Competition\Talent\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Ta
 C:\Talent-Competition\Talent\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.AssemblyInfo.cs
 C:\Talent-Competition\Talent\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.dll
 C:\Talent-Competition\Talent\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.pdb
+C:\Users\Mahender Reddy\Source\Repos\talent-competition\Talent.Services.Identity\bin\Debug\netcoreapp2.0\Talent.Services.Identity.deps.json
+C:\Users\Mahender Reddy\Source\Repos\talent-competition\Talent.Services.Identity\bin\Debug\netcoreapp2.0\Talent.Services.Identity.runtimeconfig.json
+C:\Users\Mahender Reddy\Source\Repos\talent-competition\Talent.Services.Identity\bin\Debug\netcoreapp2.0\Talent.Services.Identity.runtimeconfig.dev.json
+C:\Users\Mahender Reddy\Source\Repos\talent-competition\Talent.Services.Identity\bin\Debug\netcoreapp2.0\Talent.Services.Identity.dll
+C:\Users\Mahender Reddy\Source\Repos\talent-competition\Talent.Services.Identity\bin\Debug\netcoreapp2.0\Talent.Services.Identity.pdb
+C:\Users\Mahender Reddy\Source\Repos\talent-competition\Talent.Services.Identity\bin\Debug\netcoreapp2.0\Talent.Common.dll
+C:\Users\Mahender Reddy\Source\Repos\talent-competition\Talent.Services.Identity\bin\Debug\netcoreapp2.0\Talent.Common.pdb
+C:\Users\Mahender Reddy\Source\Repos\talent-competition\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.csprojAssemblyReference.cache
+C:\Users\Mahender Reddy\Source\Repos\talent-competition\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.csproj.CoreCompileInputs.cache
+C:\Users\Mahender Reddy\Source\Repos\talent-competition\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.AssemblyInfoInputs.cache
+C:\Users\Mahender Reddy\Source\Repos\talent-competition\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.AssemblyInfo.cs
+C:\Users\Mahender Reddy\Source\Repos\talent-competition\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.csproj.CopyComplete
+C:\Users\Mahender Reddy\Source\Repos\talent-competition\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.dll
+C:\Users\Mahender Reddy\Source\Repos\talent-competition\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.pdb
